@@ -818,6 +818,7 @@
 /* App__container */
 .app__container {
     background-color: #f5f5f5;
+    margin-bottom: 50px;
 }
 
 .app__content {
